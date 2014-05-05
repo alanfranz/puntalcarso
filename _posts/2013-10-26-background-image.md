@@ -1,15 +1,19 @@
 ---
 layout: post
 title: Test test test
-description: "Sample post with a background image CSS override."
-tags: [sample post]
-image:
+description: Sample post with a background image CSS override.
+tags: 
+  - sample post
+image: 
   background: triangular.png
 comments: true
 share: true
+published: true
 ---
 
 Here be a sample post with a custom background image. To utilize this "feature" just add the following YAML to a post's front matter.
+
+Test for modification by prose.	
 
 {% highlight yaml %}
 image:
