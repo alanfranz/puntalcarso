@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://www.puntalcarso.it</loc>
+    </url>
+    
+    
+    <url>
+        <loc>http://www.puntalcarso.it/404.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://www.puntalcarso.it/about/</loc>
+    </url>
+    
+    <url>
+        <loc>http://www.puntalcarso.it/feed.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://www.puntalcarso.it/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://www.puntalcarso.it/posts/</loc>
+    </url>
+    
+    <url>
+        <loc>http://www.puntalcarso.it/sitemap.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://www.puntalcarso.it/tags/</loc>
+    </url>
+    
+    <url>
+        <loc>http://www.puntalcarso.it/theme-setup/</loc>
+    </url>
+    
+
+    
+    <url>
+        <loc>http://www.puntalcarso.it/other-test-post/</loc>
+    </url>
+    
+</urlset>
