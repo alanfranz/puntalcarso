@@ -3747,6 +3747,14 @@ body {
   background-color: #e8e8e8;
 }
 
+.listall-entry-title a {
+  margin-bottom: 23px;
+  margin-bottom: 2.3rem;
+  font-size: 12px;
+  font-size: 1.2rem;
+  line-height: 1.9167;
+}
+
 .entry,
 .hentry {
   *zoom: 1;

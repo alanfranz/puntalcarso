@@ -1,9 +1,16 @@
 #/usr/bin/env bash
-jekyll build .
-pushd _site
+make theme
+TMPDIR=$(mktemp -d)
+jekyll build . --destination $TMPDIR
+
+node_modules/.bin/grunt watch &
+GRUNTPID="$!"
+
+pushd $TMPDIR
 python -m SimpleHTTPServer &
 SERVEPID="$!"
 popd
-trap  "kill ${SERVEPID}" SIGINT
-watch -n 3 jekyll build .
+
+trap  "kill ${SERVEPID} ${GRUNTPID} ; rm -rf $TMPDIR" SIGINT
+watch -n 2 jekyll build . --destination $TMPDIR
 
