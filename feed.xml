@@ -4,13 +4,72 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.puntalcarso.it/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.puntalcarso.it" />
-<updated>2014-10-07T23:33:50+02:00</updated>
+<updated>2014-10-07T23:56:00+02:00</updated>
 <id>http://www.puntalcarso.it/</id>
 <author>
   <name>Alan</name>
   <uri>http://www.puntalcarso.it/</uri>
   <email>alan@puntalcarso.it</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Quante settimane ci sono in un mese?]]></title>
+ <link rel="alternate" type="text/html" href="http://www.puntalcarso.it/2014/10/07/quante-settimane-in-un-mese.html" />
+  <id>http://www.puntalcarso.it/2014/10/07/quante-settimane-in-un-mese</id>
+  <updated>2014-10-07T00:00:00-00:00</updated>
+  <published>2014-10-07T00:00:00+02:00</published>
+  
+  <author>
+    <name>Alan</name>
+    <uri>http://www.puntalcarso.it</uri>
+    <email>alan@puntalcarso.it</email>
+  </author>
+  <content type="html">&lt;p&gt;OK, iniziamo con una precisazione meramente tecnica, tanto per dare un’idea del modo in cui intendo procedere.&lt;/p&gt;
+
+&lt;p&gt;Quante settimane ci sono un mese?&lt;/p&gt;
+
+&lt;p&gt;Domanda stupida, penserete voi. &lt;strong&gt;Quattro&lt;/strong&gt;, risponderanno al volo molti altri. Di recente mi è capitata anche una donna che sosteneva la gravidanza durasse dieci mesi, non nove, perché una gravidanza dura quaranta settimane.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;E invece no&lt;/strong&gt;. Nulla di tutto questo.&lt;/p&gt;
+
+&lt;p&gt;Innanzitutto giriamo la domanda in un modo più corretto:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quante settimane ci sono in media in un mese medio?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Poiché i mesi non sono tutti uguali, dovremo trovare un valore medio. &lt;strong&gt;Ma utilizzare un valore medio corretto non significa poter usare un valore a caso&lt;/strong&gt;. Prendendo &lt;em&gt;quattro&lt;/em&gt; come numero di settimane in un mese, state approssimando per difetto in maniera davvero esagerata. C’è un solo mese, Febbraio, che in tre anni su quattro ha esattamente quattro settimane. &lt;strong&gt;Tutti gli altri mesi sono sempre e necessariamente più lunghi&lt;/strong&gt;. Se l’errore vi sembra irrilevante, vorrà dire che anche il fatto che una gravidanza duri dieci mesi vi pare corretto.&lt;/p&gt;
+
+&lt;p&gt;Il valore medio che andiamo a trovare dovrà avere un minimo di coerenza matematica. Se moltiplichiamo quattro settimane per dodici mesi viene fuori che un anno ha 48 settimane. &lt;strong&gt;Perdiamo un mese intero&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Il calcolo del numero medio di settimane in un mese è un’operazione relativamente semplice. Teniamo in considerazione gli anni bisestili, uno ogni quattro, ma dimentichiamoci per il momento delle eccezioni agli anni bisestili, che sono poche e rare. Abbiamo così che il numero di settimane in quattro anni, ottenuto dividendo per sette il numero totale di giornate, è:&lt;/p&gt;
+
+&lt;p&gt;(365x3 + 366) / 7 = 208,71&lt;/p&gt;
+
+&lt;p&gt;(Ebbene sì, un anno non ha esattamente 52 settimane, ne ha 52 e qualcosina)&lt;/p&gt;
+
+&lt;p&gt;Da cui, dividendo per i 48 mesi che compongono i quattro anni:&lt;/p&gt;
+
+&lt;p&gt;208,71 / 48 = 4,35&lt;/p&gt;
+
+&lt;p&gt;si deduce che &lt;strong&gt;un mese ha in media 4,35 settimane&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ripetiamo le domande di prima: quante settimane ha un anno?&lt;/p&gt;
+
+&lt;p&gt;4,35 x 12 = 52,2&lt;/p&gt;
+
+&lt;p&gt;Quanti mesi dura una gravidanza?&lt;/p&gt;
+
+&lt;p&gt;40 / 4,35 = 9,2&lt;/p&gt;
+
+&lt;p&gt;Tutto torna!&lt;/p&gt;
+
+&lt;p&gt;PS:&lt;/p&gt;
+
+&lt;p&gt;Prima che qualcuno pensi “ma chissenefrega”, sappiate che mi è pure capitato di sentire di persone che con questo sistema perdevano una fetta rilevante del loro stipendio. Liberi professionisti che fornivano le loro prestazioni alla settimana, ma poi siccome la fatturazione avveniva secondo il ciclo del mese solare, fatturavano ogni volta quattro settimane. &lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://www.puntalcarso.it/2014/10/07/quante-settimane-in-un-mese.html&quot;&gt;Quante settimane ci sono in un mese?&lt;/a&gt; was originally published by Alan at &lt;a href=&quot;http://www.puntalcarso.it&quot;&gt;Fare la punta al Carso&lt;/a&gt; on October 07, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
