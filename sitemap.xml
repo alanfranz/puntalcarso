@@ -1,50 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>http://www.puntalcarso.it</loc>
-    </url>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://www.puntalcarso.it/punta/2014/10/07/quante-settimane-in-un-mese/</loc>
     
+    <lastmod>2014-10-07T00:00:00+02:00</lastmod>
     
-    <url>
-        <loc>http://www.puntalcarso.it/404.html</loc>
-    </url>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.puntalcarso.it/punta/2014/10/07/make-tips-not-war/</loc>
     
-    <url>
-        <loc>http://www.puntalcarso.it/about/</loc>
-    </url>
+    <lastmod>2014-10-07T00:00:00+02:00</lastmod>
     
-    <url>
-        <loc>http://www.puntalcarso.it/feed.xml</loc>
-    </url>
-    
-    <url>
-        <loc>http://www.puntalcarso.it/index.html</loc>
-    </url>
-    
-    <url>
-        <loc>http://www.puntalcarso.it/posts/</loc>
-    </url>
-    
-    <url>
-        <loc>http://www.puntalcarso.it/sitemap.xml</loc>
-    </url>
-    
-    <url>
-        <loc>http://www.puntalcarso.it/tags/</loc>
-    </url>
-    
-    <url>
-        <loc>http://www.puntalcarso.it/theme-setup/</loc>
-    </url>
-    
-
-    
-    <url>
-        <loc>http://www.puntalcarso.it/2014/10/07/quante-settimane-in-un-mese.html</loc>
-    </url>
-    
-    <url>
-        <loc>http://www.puntalcarso.it/2014/10/07/make-tips-not-war.html</loc>
-    </url>
-    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://www.puntalcarso.it/categorie/</loc>
+    <lastmod>2014-10-09T14:38:57+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.puntalcarso.it/archives/</loc>
+    <lastmod>2014-10-09T14:38:57+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.puntalcarso.it/</loc>
+    <lastmod>2014-10-09T14:38:57+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.puntalcarso.it/ringraziamenti/</loc>
+    <lastmod>2014-10-09T14:38:57+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.puntalcarso.it/punte/</loc>
+    <lastmod>2014-10-09T14:38:57+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://www.puntalcarso.it/2014/10/07/make-tips-not-war.html</loc>
+    <lastmod>2014-10-08T22:59:48Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.puntalcarso.it/2014/10/07/quante-settimane-in-un-mese.html</loc>
+    <lastmod>2014-10-08T22:59:48Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
 </urlset>

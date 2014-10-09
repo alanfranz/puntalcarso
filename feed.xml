@@ -1,109 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Fare la punta al Carso</title>
-<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://www.puntalcarso.it/feed.xml" />
-<link rel="alternate" type="text/html" href="http://www.puntalcarso.it" />
-<updated>2014-10-07T23:56:00+02:00</updated>
-<id>http://www.puntalcarso.it/</id>
-<author>
-  <name>Alan</name>
-  <uri>http://www.puntalcarso.it/</uri>
-  <email>alan@puntalcarso.it</email>
-</author>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-
-<entry>
-  <title type="html"><![CDATA[Quante settimane ci sono in un mese?]]></title>
- <link rel="alternate" type="text/html" href="http://www.puntalcarso.it/2014/10/07/quante-settimane-in-un-mese.html" />
-  <id>http://www.puntalcarso.it/2014/10/07/quante-settimane-in-un-mese</id>
-  <updated>2014-10-07T00:00:00-00:00</updated>
-  <published>2014-10-07T00:00:00+02:00</published>
-  
+  <title><![CDATA[Fare la punta al Carso]]></title>
+  <link href="http://www.puntalcarso.it/feed.xml" rel="self"/>
+  <link href="http://www.puntalcarso.it/"/>
+  <updated>2014-10-09T14:38:57+02:00</updated>
+  <id>http://www.puntalcarso.it/</id>
   <author>
-    <name>Alan</name>
-    <uri>http://www.puntalcarso.it</uri>
-    <email>alan@puntalcarso.it</email>
+    <name><![CDATA[Alan]]></name>
+    
   </author>
-  <content type="html">&lt;p&gt;OK, iniziamo con una precisazione meramente tecnica, tanto per dare un’idea del modo in cui intendo procedere.&lt;/p&gt;
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-&lt;p&gt;Quante settimane ci sono un mese?&lt;/p&gt;
-
-&lt;p&gt;Domanda stupida, penserete voi. &lt;strong&gt;Quattro&lt;/strong&gt;, risponderanno al volo molti altri. Di recente mi è capitata anche una donna che sosteneva la gravidanza durasse dieci mesi, non nove, perché una gravidanza dura quaranta settimane.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;E invece no&lt;/strong&gt;. Nulla di tutto questo.&lt;/p&gt;
-
-&lt;p&gt;Innanzitutto giriamo la domanda in un modo più corretto:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Quante settimane ci sono in media in un mese medio?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Poiché i mesi non sono tutti uguali, dovremo trovare un valore medio. &lt;strong&gt;Ma utilizzare un valore medio corretto non significa poter usare un valore a caso&lt;/strong&gt;. Prendendo &lt;em&gt;quattro&lt;/em&gt; come numero di settimane in un mese, state approssimando per difetto in maniera davvero esagerata. C’è un solo mese, Febbraio, che in tre anni su quattro ha esattamente quattro settimane. &lt;strong&gt;Tutti gli altri mesi sono sempre e necessariamente più lunghi&lt;/strong&gt;. Se l’errore vi sembra irrilevante, vorrà dire che anche il fatto che una gravidanza duri dieci mesi vi pare corretto.&lt;/p&gt;
-
-&lt;p&gt;Il valore medio che andiamo a trovare dovrà avere un minimo di coerenza matematica. Se moltiplichiamo quattro settimane per dodici mesi viene fuori che un anno ha 48 settimane. &lt;strong&gt;Perdiamo un mese intero&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Il calcolo del numero medio di settimane in un mese è un’operazione relativamente semplice. Teniamo in considerazione gli anni bisestili, uno ogni quattro, ma dimentichiamoci per il momento delle eccezioni agli anni bisestili, che sono poche e rare. Abbiamo così che il numero di settimane in quattro anni, ottenuto dividendo per sette il numero totale di giornate, è:&lt;/p&gt;
-
-&lt;p&gt;(365x3 + 366) / 7 = 208,71&lt;/p&gt;
-
-&lt;p&gt;(Ebbene sì, un anno non ha esattamente 52 settimane, ne ha 52 e qualcosina)&lt;/p&gt;
-
-&lt;p&gt;Da cui, dividendo per i 48 mesi che compongono i quattro anni:&lt;/p&gt;
-
-&lt;p&gt;208,71 / 48 = 4,35&lt;/p&gt;
-
-&lt;p&gt;si deduce che &lt;strong&gt;un mese ha in media 4,35 settimane&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ripetiamo le domande di prima: quante settimane ha un anno?&lt;/p&gt;
-
-&lt;p&gt;4,35 x 12 = 52,2&lt;/p&gt;
-
-&lt;p&gt;Quanti mesi dura una gravidanza?&lt;/p&gt;
-
-&lt;p&gt;40 / 4,35 = 9,2&lt;/p&gt;
-
-&lt;p&gt;Tutto torna!&lt;/p&gt;
-
-&lt;p&gt;PS:&lt;/p&gt;
-
-&lt;p&gt;Prima che qualcuno pensi “ma chissenefrega”, sappiate che mi è pure capitato di sentire di persone che con questo sistema perdevano una fetta rilevante del loro stipendio. Liberi professionisti che fornivano le loro prestazioni alla settimana, ma poi siccome la fatturazione avveniva secondo il ciclo del mese solare, fatturavano ogni volta quattro settimane. &lt;/p&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;http://www.puntalcarso.it/2014/10/07/quante-settimane-in-un-mese.html&quot;&gt;Quante settimane ci sono in un mese?&lt;/a&gt; was originally published by Alan at &lt;a href=&quot;http://www.puntalcarso.it&quot;&gt;Fare la punta al Carso&lt;/a&gt; on October 07, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Make tips, not war]]></title>
- <link rel="alternate" type="text/html" href="http://www.puntalcarso.it/2014/10/07/make-tips-not-war.html" />
-  <id>http://www.puntalcarso.it/2014/10/07/make-tips-not-war</id>
-  <updated>2014-10-07T00:00:00-00:00</updated>
-  <published>2014-10-07T00:00:00+02:00</published>
   
-  <author>
-    <name>Alan</name>
-    <uri>http://www.puntalcarso.it</uri>
-    <email>alan@puntalcarso.it</email>
-  </author>
-  <content type="html">&lt;p&gt;Accade ormai da anni che le persone sostengano che io sia un tipo &lt;em&gt;precisino&lt;/em&gt;. Alcuni sono arrivati addirittura a ritenere che io mi &lt;strong&gt;diverta&lt;/strong&gt; a &lt;em&gt;fare la punta&lt;/em&gt;.  E alcuni dei miei post più popolari di sempre su Facebook sono stati proprio delle importanti precisazioni sui temi più disparati.&lt;/p&gt;
+  <entry>
+    <title type="html"><![CDATA[Quante Settimane Ci Sono in Un Mese?]]></title>
+    <link href="http://www.puntalcarso.it/punta/2014/10/07/quante-settimane-in-un-mese/"/>
+    <updated>2014-10-07T00:00:00+02:00</updated>
+    <id>http://www.puntalcarso.it/punta/2014/10/07/quante-settimane-in-un-mese</id>
+    <content type="html"><![CDATA[<p>OK, iniziamo con una precisazione meramente tecnica, tanto per dare un&#8217;idea del modo in cui intendo procedere.</p>
 
-&lt;p&gt;Così ho deciso di aprire un mio blog, accessibile a tutti, dove chiunque mi voglia seguire - e &lt;em&gt;soltanto chi mi voglia seguire&lt;/em&gt; - potrà perdersi nelle mie peregrinazioni.&lt;/p&gt;
+<p>Quante settimane ci sono un mese?</p>
 
-&lt;p&gt;In questo blog potrò trattare un po’ di tutto, come mi mi gira, dalla società, alla politica, alla tecnologia.&lt;/p&gt;
+<p>Domanda stupida, penserete voi. <strong>Quattro</strong>, risponderanno al volo molti altri. Di recente mi è capitata anche una donna che sosteneva la gravidanza durasse dieci mesi, non nove, perché una gravidanza dura quaranta settimane.</p>
 
-&lt;p&gt;Cercherò di essere il più attento possibile a riportare la verità dei fatti; il mio obiettivo &lt;strong&gt;non è mai quello di bacchettare chi commette gli errori&lt;/strong&gt; - cosa che, tra l’altro, mi sembrerebbe ridicolo e codardo fare da un blog - ma cercare di &lt;strong&gt;indirizzare verso la correttezza&lt;/strong&gt;: molto spesso, al giorno d’oggi, sui blog, su Facebook, ma anche sui giornali e alla televisione, sento parlare di troppi argomenti con pochissima attenzione alla realtà dei fatti; realtà che si può invece considerare ed analizzare con una qual certa facilità grazie ai potenti mezzi tecnologici che la società dell’informazione ci mette a disposizione. &lt;/p&gt;
+<p><strong>E invece no</strong>. Nulla di tutto questo.</p>
 
-&lt;p&gt;&lt;strong&gt;Tutti sbagliamo - io sbaglio un sacco e spesso - ma non è questo un buon motivo per perserverare nell’errore&lt;/strong&gt;.&lt;/p&gt;
+<p>Innanzitutto giriamo la domanda in un modo più corretto:</p>
 
-&lt;p&gt;Se trovate qualche omissione o sbaglio nei fatti che riporto, vi invito a &lt;strong&gt;contattarmi&lt;/strong&gt; al più presto: non mancherò di correggermi e di ringraziarvi.&lt;/p&gt;
+<p><strong>Quante settimane ci sono in media in un mese medio?</strong></p>
 
-&lt;p&gt;Talvolta, a corredo dei fatti, potrete trovare una mia opinione, che cercherò di mantenere il più possibile distinta. Se l’opinione non vi aggrada siete liberi di contattarmi, ma in tal caso non posso garantire di poter provvedere ad una correzione.&lt;/p&gt;
+<p>Poiché i mesi non sono tutti uguali, dovremo trovare un valore medio. <strong>Ma utilizzare un valore medio corretto non significa poter usare un valore a caso</strong>. Prendendo <em>quattro</em> come numero di settimane in un mese, state approssimando per difetto in maniera davvero esagerata. C&#8217;è un solo mese, Febbraio, che in tre anni su quattro ha esattamente quattro settimane. <strong>Tutti gli altri mesi sono sempre e necessariamente più lunghi</strong>. Se l&#8217;errore vi sembra irrilevante, vorrà dire che anche il fatto che una gravidanza duri dieci mesi vi pare corretto.</p>
 
-&lt;p&gt;Buona lettura!&lt;/p&gt;
+<p>Il valore medio che andiamo a trovare dovrà avere un minimo di coerenza matematica. Se moltiplichiamo quattro settimane per dodici mesi viene fuori che un anno ha 48 settimane. <strong>Perdiamo un mese intero</strong>.</p>
 
-&lt;p&gt;PS:
-Potete seguire gli aggiornamenti, oltre che da questo blog con un normalissimo feed, anche su &lt;a href=&quot;https://www.facebook.com/puntalcarso&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/puntalcarso&quot;&gt;Twitter&lt;/a&gt; e &lt;a href=&quot;https://plus.google.com/+PuntalcarsoIt/&quot;&gt;Google+&lt;/a&gt;&lt;/p&gt;
+<p>Il calcolo del numero medio di settimane in un mese è un&#8217;operazione relativamente semplice. Teniamo in considerazione gli anni bisestili, uno ogni quattro, ma dimentichiamoci per il momento delle eccezioni agli anni bisestili, che sono poche e rare. Abbiamo così che il numero di settimane in quattro anni, ottenuto dividendo per sette il numero totale di giornate, è:</p>
 
-  &lt;p&gt;&lt;a href=&quot;http://www.puntalcarso.it/2014/10/07/make-tips-not-war.html&quot;&gt;Make tips, not war&lt;/a&gt; was originally published by Alan at &lt;a href=&quot;http://www.puntalcarso.it&quot;&gt;Fare la punta al Carso&lt;/a&gt; on October 07, 2014.&lt;/p&gt;</content>
-</entry>
+<p>(365x3 + 366) / 7 = 208,71</p>
 
+<p>(Ebbene sì, un anno non ha esattamente 52 settimane, ne ha 52 e qualcosina)</p>
+
+<p>Da cui, dividendo per i 48 mesi che compongono i quattro anni:</p>
+
+<p>208,71 / 48 = 4,35</p>
+
+<p>si deduce che <strong>un mese ha in media 4,35 settimane</strong>.</p>
+
+<p>Ripetiamo le domande di prima: quante settimane ha un anno?</p>
+
+<p>4,35 x 12 = 52,2</p>
+
+<p>Quanti mesi dura una gravidanza?</p>
+
+<p>40 / 4,35 = 9,2</p>
+
+<p>Tutto torna!</p>
+
+<p>PS:</p>
+
+<p>Prima che qualcuno pensi &ldquo;ma chissenefrega&rdquo;, sappiate che mi è pure capitato di sentire di persone che con questo sistema perdevano una fetta rilevante del loro stipendio. Liberi professionisti che fornivano le loro prestazioni alla settimana, ma poi siccome la fatturazione avveniva secondo il ciclo del mese solare, fatturavano ogni volta quattro settimane.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Make Tips, Not War]]></title>
+    <link href="http://www.puntalcarso.it/punta/2014/10/07/make-tips-not-war/"/>
+    <updated>2014-10-07T00:00:00+02:00</updated>
+    <id>http://www.puntalcarso.it/punta/2014/10/07/make-tips-not-war</id>
+    <content type="html"><![CDATA[<p>Accade ormai da anni che le persone sostengano che io sia un tipo <em>precisino</em>.
+Alcuni sono arrivati addirittura a ritenere che io mi <strong>diverta</strong> a <em>fare la punta</em>.
+E alcuni dei miei post più popolari di sempre su Facebook sono stati proprio delle importanti precisazioni sui temi più disparati.</p>
+
+<p>Così ho deciso di aprire un mio blog, accessibile a tutti, dove chiunque mi voglia seguire -
+e <em>soltanto chi mi voglia seguire</em> - potrà perdersi nelle mie peregrinazioni.</p>
+
+<p>In questo blog tratterò un po&#8217; di tutto, come mi mi gira, dalla società, alla politica, alla tecnologia.</p>
+
+<p>Cercherò di essere il più attento possibile a riportare la verità dei fatti;
+il mio obiettivo <strong>non è mai quello di bacchettare chi commette gli errori</strong> -
+cosa che, tra l&#8217;altro, mi sembrerebbe ridicolo e codardo fare da un blog -
+ma cercare di <strong>indirizzare verso la correttezza</strong>:
+molto spesso, al giorno d&#8217;oggi, sui blog, su Facebook, ma anche sui giornali e alla televisione,
+sento parlare di troppi argomenti con pochissima attenzione alla realtà dei fatti;
+realtà che si può invece considerare ed analizzare con una qual certa facilità grazie ai potenti mezzi tecnologici
+che la società dell&#8217;informazione ci mette a disposizione.</p>
+
+<p><strong>Tutti sbagliamo - io sbaglio un sacco e spesso - ma non è questo un buon motivo per perserverare nell&#8217;errore</strong>.</p>
+
+<p>Se trovate qualche omissione o sbaglio nei fatti che riporto, vi invito a <strong>contattarmi</strong> al più presto:
+non mancherò di correggermi e di ringraziarvi.</p>
+
+<p>Talvolta, a corredo dei fatti, potrete trovare una mia opinione, che cercherò di mantenere il più possibile distinta.
+Se l&#8217;opinione non vi aggrada siete liberi di contattarmi, ma in tal caso non posso garantire di
+poter provvedere ad una correzione.</p>
+
+<p>Buona lettura!</p>
+
+<p>PS:
+Potete seguire gli aggiornamenti, oltre che da questo blog con un normalissimo <a href="feed.xml">feed Atom</a>, anche su <a href="https://www.facebook.com/puntalcarso">Facebook</a>, <a href="https://twitter.com/puntalcarso">Twitter</a> e <a href="https://plus.google.com/+PuntalcarsoIt/">Google+</a></p>
+]]></content>
+  </entry>
+  
 </feed>
